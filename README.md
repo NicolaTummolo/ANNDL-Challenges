@@ -23,8 +23,8 @@ The second assignment focused on another deep learning classification task. Star
 
 Materials:
 
-* [Notebook](Challenge-1/Challenge_2.ipynb)
-* [Report](Challenge-1/ANNDL_report_challenge_2)
+* [Notebook](Challenge-2/Challenge_2.ipynb)
+* [Report](Challenge-2/ANNDL_report_challenge_2)
 
 
 ## Course
