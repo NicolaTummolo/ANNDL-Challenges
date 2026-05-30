@@ -1,5 +1,3 @@
-# ANNDL_Challeges
-
 # ANNDL Challenges
 
 This repository contains the material developed for the two challenges of the **Artificial Neural Networks and Deep Learning** course at Politecnico di Milano.
