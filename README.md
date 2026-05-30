@@ -15,7 +15,7 @@ The project was ranked in the **top 10% according to the professors' evaluation*
 Materials:
 
 * [Notebook](Challenge-1/Challenge_1.ipynb)
-* [Report](Challenge-1/ANNDL_report_challenge_1)
+* [Report](Challenge-1/ANNDL_report_challenge_1.pdf)
 
 ## Challenge 2
 
@@ -24,7 +24,7 @@ The second assignment focused on another deep learning classification task. Star
 Materials:
 
 * [Notebook](Challenge-2/Challenge_2.ipynb)
-* [Report](Challenge-2/ANNDL_report_challenge_2)
+* [Report](Challenge-2/ANNDL_report_challenge_2.pdf)
 
 
 ## Course
